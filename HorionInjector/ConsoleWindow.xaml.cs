@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace HorionInjector
+namespace PhantomInjector
 {
     /// <summary>
     /// Interaction logic for ConsoleWindow.xaml
