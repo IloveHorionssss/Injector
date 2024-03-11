@@ -4,21 +4,21 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net48</TargetFramework>
     <UseWPF>true</UseWPF>
-    <AssemblyName>HorionInjector</AssemblyName>
-    <StartupObject>HorionInjector.App</StartupObject>
-    <ApplicationIcon>horion.ico</ApplicationIcon>
+    <AssemblyName>PhantomInjector</AssemblyName>
+    <StartupObject>PhantomInjector.App</StartupObject>
+    <ApplicationIcon>Phantom.ico</ApplicationIcon>
     <Platforms>x64</Platforms>
     <Authors>Horion Developers</Authors>
-    <PackageProjectUrl>https://github.com/horionclient</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/IloveHorionssss</PackageProjectUrl>
     <RepositoryType>GitHub</RepositoryType>
-    <RepositoryUrl>https://github.com/horionclient/Injector</RepositoryUrl>
+    <RepositoryUrl>https://github.com/IloveHorionssss/Injector</RepositoryUrl>
     <Description>Injector for Horion, a Minecraft: Bedrock Edition utility mod</Description>
     <SignAssembly>false</SignAssembly>
-    <Version>1.1.2</Version>
+    <Version>1.0.0</Version>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Copyright>©2021</Copyright>
-    <PackageId>HorionInjector</PackageId>
-    <Product>Horion Injector</Product>
+    <PackageId>PhantomInjector</PackageId>
+    <Product>Phantom Injector</Product>
     <PackageIcon></PackageIcon>
     <PackageIconUrl />
   </PropertyGroup>
@@ -37,7 +37,7 @@
 
   <ItemGroup>
     <None Remove="console.png" />
-    <None Remove="horion-banner.png" />
+    <None Remove="Phantom-banner.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -46,7 +46,7 @@
 
   <ItemGroup>
     <Resource Include="console.png" />
-    <Resource Include="horion-banner.png" />
+    <Resource Include="Phantom-banner.png" />
   </ItemGroup>
 
 </Project>
