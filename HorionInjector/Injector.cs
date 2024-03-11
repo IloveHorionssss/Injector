@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using Microsoft.VisualBasic;
 
-namespace HorionInjector
+namespace PhantomInjector
 {
     partial class MainWindow
     {
