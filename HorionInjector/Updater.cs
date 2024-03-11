@@ -6,7 +6,7 @@ using System.Net;
 using System.Reflection;
 using System.Windows;
 
-namespace HorionInjector
+namespace PhantomInjector
 {
     partial class MainWindow
     {
