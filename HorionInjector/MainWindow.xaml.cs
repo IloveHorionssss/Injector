@@ -11,7 +11,7 @@ using System.Windows.Threading;
 using Microsoft.Win32;
 using Path = System.IO.Path;
 
-namespace HorionInjector
+namespace PhantomInjector
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
